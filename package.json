@@ -1,0 +1,22 @@
+{
+  "name": "fast-create-cli",
+  "version": "1.0.0",
+  "bin": {
+    "fcc": "./fcc.js"
+  },
+  "description": "fast create cli project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "fast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nightink/fast-create-cli.git"
+  },
+  "author": "ink",
+  "license": "MIT"
+}
